@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a recent graduate of UMBC, where I majored in Computer Science with a minor in Psychology. Now, I'm working in the field of software development
+
 <!--
 **ADMARIl/ADMARIl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
